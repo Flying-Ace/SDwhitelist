@@ -76,3 +76,4 @@ go.skimresources.com
 goto-target-com.customtraffic.impactradius.com
 goto.target.com
 homedepot.sjv.io
+myaccount.socalgas.com
