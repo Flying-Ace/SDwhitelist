@@ -79,3 +79,5 @@ homedepot.sjv.io
 nordstromrack.sjv.io
 myaccount.socalgas.com
 slickdeals.digidip.net
+preview.redd.it
+redd.it
