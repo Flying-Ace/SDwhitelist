@@ -209,7 +209,6 @@ hulu.hb-api.omtrdc.net
 hulu.com
 assets.huluim.com
 t2.hulu.com
-ads-[a-z]+-darwin.hulustream.com
 hulu.com.akadns.net
 plus.hulu.com
-*.hulu.com
+
