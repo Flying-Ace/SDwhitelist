@@ -212,3 +212,6 @@ t2.hulu.com
 hulu.com.akadns.net
 plus.hulu.com
 adobedc.demdex.net
+calottery.com
+powerball.com
+lotteryusa.com
