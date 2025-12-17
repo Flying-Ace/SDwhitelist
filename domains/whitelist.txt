@@ -215,3 +215,4 @@ adobedc.demdex.net
 calottery.com
 powerball.com
 lotteryusa.com
+calottery.com^
