@@ -216,3 +216,13 @@ calottery.com
 powerball.com
 lotteryusa.com
 calottery.com^
+#paramount plus - https://raw.githubusercontent.com/schrebra/paramount.plus.whitelist/main/hosts or https://www.reddit.com/r/Adguard/comments/tdx1ya/paramount_filter/
+saa.paramountplus.com
+saa.cbsi.com
+cbsinteractive.hb.omtrdc.net
+cbsi.com.ssl.sc.omtrdc.net
+tags.tiqcdn.com
+splice.amlg.io
+vod-gcs-cedexis.cbsaavideo.com
+receive.wmcdp.io
+thumbnails.cbsig.net
