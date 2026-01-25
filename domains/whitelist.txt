@@ -226,3 +226,4 @@ splice.amlg.io
 vod-gcs-cedexis.cbsaavideo.com
 receive.wmcdp.io
 thumbnails.cbsig.net
+pubads.g.doubleclick.net
